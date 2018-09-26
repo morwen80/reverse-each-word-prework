@@ -8,4 +8,8 @@ end
 end
 
 def reverse_each_word(str2)
+  array2 = str2.split(" ")
+  return_array2 = []
+  new_array2.collect { |word| 
+  }
 end
