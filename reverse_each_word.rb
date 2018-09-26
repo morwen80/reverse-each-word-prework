@@ -1,7 +1,6 @@
 def reverse_each_word(str)
-  newString = str.split(/ /);
-  new_array = []
-  
-  newString.each {|w| new.array << w.reverse}
-  puts newString
+new_array = string.split(" ")
+return_array = []
+new_array.each do |w|
+return_array << w.reverse
 end
